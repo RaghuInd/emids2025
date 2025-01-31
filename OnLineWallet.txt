@@ -1,0 +1,21 @@
+OnLineWallet:
+
+1. User should register
+2. User should deposit fund [PATCH]
+3. User should withdraw fund [PATCH]
+4. User should transfer fund [PATCH]
+5. User should change email [PATCH]
+6. user should deregister [Delete]
+
+
+
+{
+    "id":1,
+    "name":"India",
+    "balance":5000.0
+}
+
+{
+    "id":1,
+    "fund":5000.0
+}
